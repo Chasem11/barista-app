@@ -13,6 +13,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.radio-buttons li {
+  list-style-type: none; /* Removes the bullet points */
+}
+
+
 a {
   font-weight: 500;
   color: #646cff;
